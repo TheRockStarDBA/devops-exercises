@@ -10,7 +10,7 @@ Every DevOps Engineer should have a deep understanding of at least one operating
  
 Usually, the followup question is "How extensive should my knowledge be?" Out of all the DevOps skills, I would say this, along with coding, should be your strongest skills. Be familiar with OS processes, debugging tools, filesystem, networking, ... know your operating system, understand how it works, how to manage issues, etc.
 
-Not long ago, I've created a list of Linux resources right [here](http://devopsbit.com/resources/linux). There are some good sites there that you can use for learning more about Linux.
+Not long ago, I've created a list of Linux resources right [here](https://dev.to/abregman/collection-of-linux-resources-3nhk). There are some good sites there that you can use for learning more about Linux.
  
 #### Coding
  
@@ -80,7 +80,7 @@ Starting a DevOps project is a good idea because:
 * It will make you practice coding
 * It will be something you can add to your resume and talk about with the interviewer
 * Depends on size and complexity, it can teach you something about design in general
-* Depends on adoption, it can you teach you about managing Open Source projects
+* Depends on adoption, it can teach you about managing Open Source projects
   
 Same here, don't overthink what your project should be about. Just go and build something :)
   
@@ -95,7 +95,7 @@ Better yet, ask a good friend/colleague to challenge you with some questions. Yo
   
 For those who attend technical meetups and conferences, it can be a great opportunity to chat with people from other companies on their interviewing process. But don't start with it, it can be quite awkward. Say at least hello first... (:
   
-Doing so can give you a lot of information on what to expect from an interview at some companies or how to how to better prepare.
+Doing so can give you a lot of information on what to expect from an interview at some companies or how to better prepare.
   
 ### Know your resume
   
@@ -152,4 +152,4 @@ If you do, you should also play the interviewer role :)
 
 ### One Last Thing                                
                                                   
-[Good luck](https://youtu.be/Xz-UvQYAmbg?t=29) :)
+[Good luck](https://youtu.be/AFUrG1-BAt4?t=59) :)
